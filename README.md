@@ -5,7 +5,7 @@ please follow the below step to setup the environment variable
 ```
 cp sample.env .env
 ```
-this project use openweathermap api (https://openweathermap.org/api)\
+this project use openweathermap api (https://openweathermap.org/api) \
 please register your api key and insert into the .env
 
 
